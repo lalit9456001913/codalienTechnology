@@ -26,7 +26,7 @@ require('./schemas/allSchema.js')
 const otpMonitor = mongoose.model('otpMonitor')
 const urlMonitor = mongoose.model('urlMonitor')
 /*************************** */
-
+var cors = require('cors')
 
 /*****emailHelper for sending email */
 const EmailHelper = require('./EmailHelper.js')
