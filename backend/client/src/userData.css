@@ -1,0 +1,57 @@
+table td {
+    border-top: thin solid; 
+    border-bottom: thin solid;
+}
+.headingRow{
+    width: 100%;
+    text-align: center;
+    border: 2px solid;
+}
+.dataRow{
+    width: 100%;
+     text-align: center;
+      border: 2px solid;
+}
+.urlcoln{
+    width: 50%;
+     text-align: center;
+     border: 2px solid;
+}
+.urlcoln .url{
+     color: red;
+ }
+ .statuscoln .success{
+     color: green;
+ }
+ .statuscoln .failure{
+     color: red;
+ }
+.frequencycoln{
+    width: 20%;
+    text-align: center;
+    border: 2px solid;
+}
+.statuscoln{
+    width: 20%;
+     text-align: center;
+      border: 2px solid;
+}
+.urlMonitor{
+    margin-left: 6%;
+}
+.deletebtn:hover{
+    cursor: pointer;
+}
+.updatebtn:hover{
+    cursor: pointer;
+}
+
+.logoutbtn{
+    text-align: right;
+    margin-right: 96px;
+    margin-top: 21px;
+}
+
+.loginBtn{
+    text-align: right;
+}

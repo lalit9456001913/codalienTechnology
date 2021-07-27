@@ -1,0 +1,22 @@
+.homepage{
+    text-align: center;
+}
+
+.url{
+    width: 300px;
+}
+.userform{
+    text-align: center;
+    margin-top: 15px;
+}
+.otpform{
+     text-align: center;
+    margin-top: 15px;
+}
+
+.loginBtn{
+    margin-right:20px;
+}
+.showError{
+    color:red;
+}
